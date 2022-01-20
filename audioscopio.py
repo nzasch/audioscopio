@@ -1,5 +1,3 @@
-# francesco bedosti - 2015 - v1.12
-
 import csv
 import alsaaudio
 
