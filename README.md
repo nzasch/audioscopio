@@ -1,2 +1,1 @@
-apt-get install  python-scipy python-tk python-alsaaudio
-
+Per ustilizzare il programma e' necessario installare i pacchetti python-scipy, python-tk e python-alsaaudio
